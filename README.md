@@ -1,3 +1,6 @@
+<div align="center"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"> <img src="https://img.shields.io/badge/POO-0D8ABC?style=for-the-badge" alt="POO"> <img src="https://img.shields.io/badge/Status-Completo-brightgreen?style=for-the-badge" alt="Status"> <img src="https://img.shields.io/github/license/seu-usuario/bookstore?style=for-the-badge" alt="License"> </div>
+<div align="center"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="150" alt="Java Logo"> </div>
+
 # Sistema de Gerenciamento de Farmácia
 
 ![Java](https://img.shields.io/badge/Java-17+-007396?logo=java&logoColor=white)
